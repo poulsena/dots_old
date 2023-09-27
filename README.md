@@ -2,11 +2,17 @@
 Nord themed dotfiles with:
 
 WM: i3
+
 Compositor: Picom
+
 Terminal Emulator: Alacritty
+
 Shell: Zsh (oh-my-zsh)
+
 Image viewer/Background manager: feh
+
 Status bar: Polybar
+
 Application launcher: dmenu
 
 ## Symlinks
